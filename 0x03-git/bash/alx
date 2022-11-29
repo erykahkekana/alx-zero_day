@@ -1,11 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-ALX school is so cool
-=======
-ALX school
-
-cd root
-:q
-wq
-esc
->>>>>>> update_script
+"ALX school"
